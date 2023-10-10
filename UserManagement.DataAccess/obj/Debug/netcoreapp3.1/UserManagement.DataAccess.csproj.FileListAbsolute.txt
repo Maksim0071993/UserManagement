@@ -1,0 +1,13 @@
+C:\Users\softacom_user\source\repos\UserManagement\UserManagement.DataAccess\bin\Debug\netcoreapp3.1\UserManagement.DataAccess.deps.json
+C:\Users\softacom_user\source\repos\UserManagement\UserManagement.DataAccess\bin\Debug\netcoreapp3.1\UserManagement.DataAccess.dll
+C:\Users\softacom_user\source\repos\UserManagement\UserManagement.DataAccess\bin\Debug\netcoreapp3.1\UserManagement.DataAccess.pdb
+C:\Users\softacom_user\source\repos\UserManagement\UserManagement.DataAccess\obj\Debug\netcoreapp3.1\UserManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\softacom_user\source\repos\UserManagement\UserManagement.DataAccess\obj\Debug\netcoreapp3.1\UserManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\softacom_user\source\repos\UserManagement\UserManagement.DataAccess\obj\Debug\netcoreapp3.1\UserManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\softacom_user\source\repos\UserManagement\UserManagement.DataAccess\obj\Debug\netcoreapp3.1\UserManagement.DataAccess.AssemblyInfo.cs
+C:\Users\softacom_user\source\repos\UserManagement\UserManagement.DataAccess\obj\Debug\netcoreapp3.1\UserManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\softacom_user\source\repos\UserManagement\UserManagement.DataAccess\obj\Debug\netcoreapp3.1\UserManagement.DataAccess.dll
+C:\Users\softacom_user\source\repos\UserManagement\UserManagement.DataAccess\obj\Debug\netcoreapp3.1\UserManagement.DataAccess.pdb
+C:\Users\softacom_user\source\repos\UserManagement\UserManagement.DataAccess\bin\Debug\netcoreapp3.1\UserManagement.DataAccess.runtimeconfig.json
+C:\Users\softacom_user\source\repos\UserManagement\UserManagement.DataAccess\bin\Debug\netcoreapp3.1\UserManagement.DataAccess.runtimeconfig.dev.json
+C:\Users\softacom_user\source\repos\UserManagement\UserManagement.DataAccess\obj\Debug\netcoreapp3.1\UserManagement.DataAccess.genruntimeconfig.cache

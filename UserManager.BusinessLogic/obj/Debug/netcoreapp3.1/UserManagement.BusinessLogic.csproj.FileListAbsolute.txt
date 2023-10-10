@@ -1,0 +1,16 @@
+C:\Users\softacom_user\source\repos\UserManagement\UserManager.BusinessLogic\bin\Debug\netcoreapp3.1\UserManagement.BusinessLogic.deps.json
+C:\Users\softacom_user\source\repos\UserManagement\UserManager.BusinessLogic\bin\Debug\netcoreapp3.1\UserManagement.BusinessLogic.dll
+C:\Users\softacom_user\source\repos\UserManagement\UserManager.BusinessLogic\bin\Debug\netcoreapp3.1\UserManagement.BusinessLogic.pdb
+C:\Users\softacom_user\source\repos\UserManagement\UserManager.BusinessLogic\bin\Debug\netcoreapp3.1\UserManagement.DataAccess.dll
+C:\Users\softacom_user\source\repos\UserManagement\UserManager.BusinessLogic\bin\Debug\netcoreapp3.1\UserManagement.DataAccess.pdb
+C:\Users\softacom_user\source\repos\UserManagement\UserManager.BusinessLogic\obj\Debug\netcoreapp3.1\UserManagement.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\softacom_user\source\repos\UserManagement\UserManager.BusinessLogic\obj\Debug\netcoreapp3.1\UserManagement.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\softacom_user\source\repos\UserManagement\UserManager.BusinessLogic\obj\Debug\netcoreapp3.1\UserManagement.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\softacom_user\source\repos\UserManagement\UserManager.BusinessLogic\obj\Debug\netcoreapp3.1\UserManagement.BusinessLogic.AssemblyInfo.cs
+C:\Users\softacom_user\source\repos\UserManagement\UserManager.BusinessLogic\obj\Debug\netcoreapp3.1\UserManagement.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\softacom_user\source\repos\UserManagement\UserManager.BusinessLogic\obj\Debug\netcoreapp3.1\UserManagement.BusinessLogic.csproj.CopyComplete
+C:\Users\softacom_user\source\repos\UserManagement\UserManager.BusinessLogic\obj\Debug\netcoreapp3.1\UserManagement.BusinessLogic.dll
+C:\Users\softacom_user\source\repos\UserManagement\UserManager.BusinessLogic\obj\Debug\netcoreapp3.1\UserManagement.BusinessLogic.pdb
+C:\Users\softacom_user\source\repos\UserManagement\UserManager.BusinessLogic\bin\Debug\netcoreapp3.1\UserManagement.BusinessLogic.runtimeconfig.json
+C:\Users\softacom_user\source\repos\UserManagement\UserManager.BusinessLogic\bin\Debug\netcoreapp3.1\UserManagement.BusinessLogic.runtimeconfig.dev.json
+C:\Users\softacom_user\source\repos\UserManagement\UserManager.BusinessLogic\obj\Debug\netcoreapp3.1\UserManagement.BusinessLogic.genruntimeconfig.cache
